@@ -1,0 +1,23 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "Wedding Social Media Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsummers003/finalproject.git"
+  },
+  "author": "CJ Summers, Regine Lyons, Trevor Peacock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjsummers003/finalproject/issues"
+  },
+  "homepage": "https://github.com/cjsummers003/finalproject#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "passport": "^0.4.0"
+  }
+}
